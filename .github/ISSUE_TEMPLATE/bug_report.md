@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Please use this template when you create an issue
+name: Fehler melden
+about: Bitte dieses Template nutzen, um einen Fehler zu melden
 title: ''
 labels: ''
 assignees: ''
@@ -9,10 +9,10 @@ assignees: ''
 
 **Links:**
 
-from WoWHead or our Armory
+Für die Beweise (Videos, Bilder, etc)
 
-**What is happening:**
+**Was ist passiert?**
 
 
 
-**What should happen:**
+**Was denkst du sollte passieren?**
